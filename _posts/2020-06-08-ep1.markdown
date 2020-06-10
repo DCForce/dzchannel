@@ -1,0 +1,25 @@
+---
+layout: post
+title:  EP1 人，被殺就會死。－淺談前置知識影響觀看體驗的現象
+date:  2020-06-08
+categories: episodes
+spotify-link: https://open.spotify.com/episode/6kCpbVfI65urZB3OcaFe1m
+apple-link: https://podcasts.apple.com/us/podcast/ep1-%E4%BA%BA-%E8%A2%AB%E6%AE%BA%E5%B0%B1%E6%9C%83%E6%AD%BB-%E6%B7%BA%E8%AB%87%E5%89%8D%E7%BD%AE%E7%9F%A5%E8%AD%98%E5%BD%B1%E9%9F%BF%E8%A7%80%E7%9C%8B%E9%AB%94%E9%A9%97%E7%9A%84%E7%8F%BE%E8%B1%A1/id1515231624?i=1000477202489
+firstory-link: https://open.firstory.me/story/ckb6napkqthke08731qvtn36h
+description: 每個人接觸ACGN作品的緣由不盡相同，也有各種不同欣賞作品的方式。<br>我們認為多了解一些創作背景可以增進觀看體驗，也希望避免因為錯誤的觀賞心態，造成無法享受作品的遺憾。<br>這集將以Fate這個活躍長久的系列作為例子，探討前置知識如何增進觀看體驗。
+---
+
+> 每個人接觸ACGN作品的緣由不盡相同，也有各種不同欣賞作品的方式。
+> 我們認為多了解一些創作背景可以增進觀看體驗，也希望避免因為錯誤的觀賞心態，造成無法享受作品的遺憾。
+> 這集將以Fate這個活躍長久的系列作為例子，探討前置知識如何增進觀看體驗。 
+
+本集提到的文章：
+
+[人被殺就會死](https://zh.moegirl.org/zh-tw/%E4%BA%BA%E8%A2%AB%E6%9D%80%E5%B0%B1%E4%BC%9A%E6%AD%BB#){:target="_blank"}
+
+[[閒聊] 先看完ubw再看fate/zero的心得](https://www.ptt.cc/bbs/C_Chat/M.1584472609.A.937.html){:target="_blank"}
+
+如果對Fate觀看順序有興趣，非常推薦這篇巴哈的文章：
+
+[https://home.gamer.com.tw/creationDetail.php?sn=2854011](https://home.gamer.com.tw/creationDetail.php?sn=2854011){:target="_blank"}
+

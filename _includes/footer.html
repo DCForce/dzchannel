@@ -1,0 +1,62 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+<!--<h2 class="footer-heading">{{ site.title | escape }}</h2>  -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <div class="social-icon">
+          <div class="social-item">
+            <a target="_blank" href="https://open.spotify.com/show/41emKt8hoCb0x71DhddyjD">
+              <span class="fa-stack">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          
+          </div>
+          <div class="social-item">
+            <a target="_blank" href="https://podcasts.apple.com/podcast/id1515231624">
+              <span class="fa-stack">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-podcast fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+            
+          </div>
+        </div>
+        <div class="social-icon">
+          <div class="social-item">
+            <a target="_blank" href="https://open.firstory.me/user/dczzz">
+              <span class="fa-stack">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </div>
+          <div class="social-item">
+            <a href="mailto:{{ site.email }}">
+              <span class="fa-stack">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </div>
+        </div>
+        
+      
+      </div>
+      <div class="footer-col footer-col-3">
+        <div class="social-item">
+          <p>{{- site.description | escape -}}</p>
+          <p><span class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }} </span></p>
+        </div>
+      </div>
+
+      
+
+    </div>
+  </div>
+</footer>
