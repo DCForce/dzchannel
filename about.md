@@ -16,3 +16,6 @@ permalink: /about/
 #### ZZZ
 
     # 廢柴一根~
+
+
+有空的話也可以造訪我們以前開的網誌[DCZZZ](https://dczzz529.wordpress.com/){:target="_blank"}，算是早期文字版本的低利宅生吧，只是這年頭我們更想玩Podcast就沒有很常理它(X
